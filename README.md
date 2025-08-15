@@ -16,5 +16,8 @@ Explore the importance of network monitoring with this lab on Syslog logging. Yo
 Workshop 5 DHCP complete.pkt
 Learn how to implement DHCP (Dynamic Host Configuration Protocol) on a network. This lab covers the configuration of a DHCP server to automatically assign IP addresses and other network parameters to client devices, simplifying network administration.
 
-Workshop 6: Autonomous Systems complete.pkt
+Workshop 6 Autonomous Systems complete.pkt
 Dive into the world of inter-domain routing with this lab on Autonomous Systems. You will configure routing protocols, likely BGP (Border Gateway Protocol), to manage traffic flow between different autonomous systems.
+
+Prerequisites
+To open and interact with these files, you will need to have Cisco Packet Tracer installed on your computer.
